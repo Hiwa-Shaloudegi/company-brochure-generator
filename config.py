@@ -19,7 +19,7 @@ def load_api_keys():
 
 SYSTEM_MESSAGE = (
     "You are an assistant that analyzes the contents of a company website landing page "
-    "and creates a short brochure about the company for prospective customers, investors and recruits. "
+    "and creates a short humorous, entertaining, jokey brochure about the company for prospective customers, investors and recruits. "
     "Respond in markdown."
 )
 
